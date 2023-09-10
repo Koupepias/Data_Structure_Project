@@ -1,5 +1,5 @@
 # Data_Structure_Project
-This is the Part II of a project at Data Structures lesson that I did in 4th semester(2023) 
+This is the Part II of a project at Data Structures lesson that I did in 4th semester(2023) \n
 -Written in c
 -The PDF File contains the instructions of the project
 -The .docx file contains the report of the project
